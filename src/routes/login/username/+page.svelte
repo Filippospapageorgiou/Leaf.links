@@ -49,12 +49,12 @@
             username,
             photoURL: $user?.photoURL ?? null,
             published:true,
-            bio:'I am Walus',
+            bio:'',
             links:[
                 {
-                    title:'Twitter',
-                    url:'https://twitter.com/walus',
-                    icon:'custom'
+                    title:'',
+                    url:'',
+                    icon:''
                 }
             ]
         });
